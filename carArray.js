@@ -98,7 +98,24 @@ var cars =
                                     speed : 217   
                               } 
             },
-    }                                   
+    },
+    
+    {
+        "_id" : "lotus-evija",
+        "make" : "Lotus",
+        "model" : "Evija",
+        "purpose" : "Track",
+        "powertrain" : {
+                "motor" : "4 e-motors with 493hp each",
+                "power" : "1970hp",
+                "type" : "Electric",
+                "performance" : {
+                        "acceleration_0_60_MPH" : "<3 sec",
+                        "speed" : ">200 mph"
+                }
+        },
+        "the motive" : "terrify you with sheer Thrust"
+}
 ]
 //     cars.find
     
