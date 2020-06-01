@@ -68,22 +68,7 @@ var cars =
             },
         
     },
-    {
-        make : 'BUGATTI',
-        model : 'Veyron',
-        purpose : 'Grand Touring',
-        powertrain : 
-            {
-                displacement : '8l QuadTurbo W16',
-                power : '1000hp',
-                type : 'Combustion',
-                performance : {
-                                    acceleration_60_MPH : '2.5 sec',
-                                    speed : 261   
-                              } 
-            },                    
-    },
-
+    
     {
         make : 'PINNINFARINA',
         model : 'BATTISTA',
